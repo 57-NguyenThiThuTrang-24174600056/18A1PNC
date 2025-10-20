@@ -1,0 +1,52 @@
+{
+    "company_name": "Công ty ABC",
+    "address": "Hà Nội",
+    "departments": {
+        "Đơn vị A1": [
+            {
+                "name": "A"
+            },
+            {
+                "name": "B"
+            },
+            {
+                "name": "C"
+            }
+        ],
+        "Đơn vị A2": [
+            {
+                "name": "D"
+            },
+            {
+                "name": "E"
+            }
+        ],
+        "Đơn vị A3": [
+            {
+                "name": "F"
+            },
+            {
+                "name": "G"
+            },
+            {
+                "name": "H"
+            },
+            {
+                "name": "I"
+            }
+        ],
+        "Đơn vị A4": [
+            {
+                "name": "K"
+            }
+        ],
+        "Đơn vị A5": [
+            {
+                "name": "L"
+            },
+            {
+                "name": "M"
+            }
+        ]
+    }
+}
